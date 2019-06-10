@@ -1,0 +1,15 @@
+*{ 
+	margin:0px; 
+	padding:0px;
+}
+canvas{ 
+	height:450px;
+	width:450px;
+	border:1px solid grey; 
+	box-shadow: -2px -2px 2px #999999, 5px 5px 5px grey;
+	position:absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -250px;
+	margin-left: -250px;
+}
